@@ -8,13 +8,31 @@
     <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet"> 
     <title>Kalkulaator</title>
 </head>
-<body bgcolor="#ffffff">
+<body bgcolor="#F5D0A9">
+    <main class="grid">
     <div id="rectangle">
         <h1>Tulude ja kulude kalkulaator</h1>
-            <div class="flex-container">
-                <div></div>
-                <div></div>
-            </div>
+    <div class="flex-container">
+        <div class="kastid">KIRJELDUS</div>
+        <div class="kastid">
+            <label for="amount">Kogus</label>
+            <form></form>
+            <input type="text" id="amount" class="input">
+            <button class="income_submit" id="income_submit">+</button>
+        </div>
+        <div class="kastid">+-</div>
     </div>
+    <div class="flex-container-left">
+        <div class="kastid">Tulud</div>
+        <div class="kastid" >
+            <p id="income_view"></p>
+        </div>
+    </div>
+    <div class="flex-container-right">
+        <div class="kastid">123</div>
+        <div class="kastid">KIRJELDUS</div>
+    </div>
+    </main>
+    <script src="application.js"></script>
 </body>
 </html>
