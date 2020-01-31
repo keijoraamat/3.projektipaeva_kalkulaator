@@ -9,7 +9,6 @@ body{
     border: none;
     border-radius: 40px;
     margin:30px auto;
-    margin-left: 30px;
     position: absolute;
 }
 h1{
@@ -17,6 +16,36 @@ h1{
     text-align: center;
     color: #ffffff;
     font-family: 'Raleway', sans-serif;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-family: 'Raleway', sans-serif;
+}
+.oval{
+    background-color: #f5c388;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    width: 300px;
+    height: 70px;
+    color: rgb(0, 0, 0);
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: 'Raleway', sans-serif;
+}
+.oval-2{
+    background-color: #f5c388;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    width: 130px;
+    height: 40px;
+    color: rgb(0, 0, 0);
+    margin-left: 80px;
+    text-align: center;
+    margin-top: 80px;
 }
 .flex-container {
     display: flex;
@@ -29,12 +58,78 @@ h1{
   }
   
 .flex-container > div {
-    background-color: #f1f1f1;
+    background-color: #f1f1f100;
     width: 800px;
     margin: 10px;
     text-align: center;
-    line-height: 75px;
-    font-size: 30px;
     flex: 0 50%;
     box-sizing:border-box
 }
+.flex-container-3 {
+    display: flex;
+    background-color: rgba(0, 0, 0, 0);
+    flex-direction: row;
+    margin-left: 80px;
+  }
+  
+.flex-container-3 > div {
+    margin: 10px;
+    font-size: 30px;
+    line-height: 1.5;
+    margin-top: 35px;
+  }
+#summa{
+    border: none;
+    width: 180px;
+    height: 80px;
+    background-color: #f5c388;
+    border-radius: 15px;
+    font-size: 30px;
+    margin: 20px;
+  }
+#text{
+    border: none;
+    border-radius: 15px;
+    width: 500px;
+    height: 40px;
+    line-height: 1;
+    background-color:#f5c388;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-left: 14px;
+    margin-top: 100px;
+  }
+.btn-p{
+    background-color: #36b649;
+    width: 50px;
+    height: 50px;
+    border-radius: 45px;
+  }
+.btn-n{
+    background-color: #d65e5f;
+    width: 50px;
+    height: 50px;
+    border-radius: 45px;
+}
+#sum{
+    width: 400px;
+    height: 100px;
+    line-height: 1.4;
+    background-color: #ffffff;
+    font-size: 70px;
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 65px;
+}
+.flex-container-2 {
+    display: flex;
+    background-color: rgba(0, 0, 0, 0);
+    flex-direction: row;
+  }
+  
+.flex-container-2 > div {
+    margin: 10px;
+    font-size: 30px;
+    line-height: 1;
+  }
