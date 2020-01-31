@@ -6,9 +6,10 @@ eesmärk - Projekti eesmärk oli teha eelarve kalkulaator, mis arvutab kulude ja
 
 mida õppisin:
 
+Kalvi T. - Proovis juhtida (Failed)
+
 Tiit V. - Õppisin css-i ja html-i.
 
-Kalvi T. - Proovis juhtida (Failed)
 
 Keijo R. - Õpetas meile Giti ja Teams-i
 
