@@ -6,16 +6,16 @@ eesmärk - Projekti eesmärk oli teha eelarve kalkulaator, mis arvutab kulude ja
 
 mida õppisin:
 
-Tiit V. - 
+Tiit V. - Õppisin css-i ja html-i.
 
-Kalvi T. -
+Kalvi T. - Proovis juhtida (Failed)
 
-Keijo R. - 
+Keijo R. - Õpetas meile Giti ja Teams-i
 
 Jasper T. - Õppisin css-i ja html-i.
 
-Kaspar K. - 
+Kaspar K. - Java arendaja
 
-Rando K. - 
+Rando K. - Layout ja template
 
 GitHub - https://github.com/keijoraamat/3.projektipaeva_kalkulaator
