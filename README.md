@@ -17,3 +17,5 @@ Jasper T. - Õppisin css-i ja html-i.
 Kaspar K. - 
 
 Rando K. - 
+
+GitHub - https://github.com/keijoraamat/3.projektipaeva_kalkulaator
